@@ -9,8 +9,6 @@ I'm **Gaurav Shivhare**, a **Full Stack Developer** passionate about building re
 ## 🚀 About Me
 
 - 🧑‍💻 Full-stack developer (React.js, Node.js, MongoDB)
-- 🔭 Currently building **CodePilot** — an AI-powered coding assistant
-- 🌐 Working on **Omegle Clone** — a real-time P2P video chat app using WebRTC
 - 🤖 Exploring AI integrations and real-time communication systems
 - 🧠 Always learning, always building
 
@@ -23,6 +21,7 @@ I'm **Gaurav Shivhare**, a **Full Stack Developer** passionate about building re
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ### 🎨 Frontend
@@ -55,7 +54,7 @@ I'm **Gaurav Shivhare**, a **Full Stack Developer** passionate about building re
 
 ## 💼 Ongoing Projects
 
-- 🤖 **CodePilot** — An AI-powered coding assistant that can read, analyze, create files and folders, just like GitHub Copilot
+- 🤖 **CodePilot** — A web-based AI-powered coding assistant that runs in the browser, can read, analyze, create files and folders, just like GitHub Copilot
 - 📹 **Omegle Clone** — A real-time peer-to-peer video chat app built with WebRTC and Socket.io
 
 ---
@@ -79,6 +78,7 @@ I'm **Gaurav Shivhare**, a **Full Stack Developer** passionate about building re
 
 - 💼 [LinkedIn](https://linkedin.com/in/gaurav-shiv)
 - 💻 [GitHub](https://github.com/gauravshivhare-prj)
+- 📄 Resume: *Coming soon...*
 
 ---
 
