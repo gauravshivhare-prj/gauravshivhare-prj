@@ -78,7 +78,7 @@ I'm **Gaurav Shivhare**, a **Full Stack Developer** passionate about building re
 
 - 💼 [LinkedIn](https://linkedin.com/in/gaurav-shiv)
 - 💻 [GitHub](https://github.com/gauravshivhare-prj)
-- 📄 Resume: *Coming soon...*
+- 📄 Portfolio: *Coming soon...*
 
 ---
 
