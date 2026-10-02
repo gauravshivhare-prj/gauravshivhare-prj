@@ -27,58 +27,43 @@ I enjoy working across the stack — from frontend interfaces and REST APIs to r
 
 ### 💻 Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,cpp" />
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
 
 ### 🎨 Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
-</p>
+![React.js](https://img.shields.io/badge/React.js-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=nextdotjs\&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white)
 
 ### ⚙️ Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge" />
-  <img src="https://skillicons.dev/icons?i=socketio" />
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square\&logo=express\&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square\&logo=socketdotio\&logoColor=white)
 
 ### 🗄️ Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
-</p>
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
 
 ### 🤖 GenAI
 
-<p>
-  <img src="https://img.shields.io/badge/Groq%20API-F55036?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Multi--LLM%20Integration-412991?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-6C63FF?style=for-the-badge" />
-</p>
+![Groq API](https://img.shields.io/badge/Groq_API-F55036?style=flat-square)
+![Multi-LLM Integration](https://img.shields.io/badge/Multi--LLM_Integration-412991?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6C63FF?style=flat-square)
 
 ### 🔧 Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
-</p>
-
----
-
-## 🌟 Leadership
-
-**GeeksforGeeks Campus Mantri — OIST Bhopal**
-
-Official student representative focused on student outreach, learning programs, certifications, and community engagement.
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square\&logo=vercel\&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square\&logo=render\&logoColor=black)
 
 ---
 
