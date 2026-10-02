@@ -18,8 +18,7 @@ I enjoy working across the stack — from frontend interfaces and REST APIs to r
 * 🧑‍💻 Former **Full Stack Developer Intern @ STORI**
 * 🤖 Exploring **Generative AI, Multi-LLM Integration & Prompt Engineering**
 * ⚡ Interested in **real-time applications, backend systems & scalable architectures**
-* 🏆 **Top 10 Finalist — HBTM 2026, IIIT Pune**
-* 🚀 Participated in **10+ hackathons**
+
 
 ---
 
@@ -42,7 +41,6 @@ I enjoy working across the stack — from frontend interfaces and REST APIs to r
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square\&logo=express\&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square\&logo=socketdotio\&logoColor=white)
 
 ### 🗄️ Databases
@@ -51,11 +49,6 @@ I enjoy working across the stack — from frontend interfaces and REST APIs to r
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
 
-### 🤖 GenAI
-
-![Groq API](https://img.shields.io/badge/Groq_API-F55036?style=flat-square)
-![Multi-LLM Integration](https://img.shields.io/badge/Multi--LLM_Integration-412991?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6C63FF?style=flat-square)
 
 ### 🔧 Tools
 
