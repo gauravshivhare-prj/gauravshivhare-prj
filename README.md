@@ -8,7 +8,7 @@ I enjoy working across the stack — from frontend interfaces and REST APIs to r
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=gauravshivhare-prj\&label=Profile%20Views\&color=blue\&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=gauravshivhare-prj&label=Profile%20Views&color=blue&style=flat-square)
 
 ---
 
